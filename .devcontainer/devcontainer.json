@@ -6,17 +6,12 @@
             "settings": {},
             "extensions": [
                 "vscjava.vscode-java-pack",
-                "GitHub.copilot",
                 "vscjava.vscode-java-debug",
-                "streetsidesoftware.code-spell-checker",
                 "ms-azuretools.vscode-docker",
                 "GitHub.codespaces",
-                "VisualStudioExptTeam.vscodeintellicode",
-                "VisualStudioExptTeam.intellicode-api-usage-examples",
                 "redhat.java",
                 "vscjava.vscode-maven",
-                "redhat.fabric8-analytics",
-                "SonarSource.sonarlint-vscode"
+                "redhat.fabric8-analytics"
             ]
         }
     },
